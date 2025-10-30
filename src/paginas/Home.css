@@ -4,6 +4,94 @@
   margin: 0;
 }
 
-.navbar_color {
-    background-color: #EBEBEB;
+.navbar_Color {
+   background-color: #EBEBEB;
+  
+}
+.nombre{
+  position: relative;
+  left: 500px ;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.carrera {
+  position: relative;
+  left: 450px;
+  color: #670D1C;
+  font-family:'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+}
+
+.intro {
+  position: relative;
+  left: 200px;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.yo {
+  width: 1090px;
+  position: relative;
+  left: 100px;
+}
+.fondo_abajo{
+    background-color: #d4d1d1;
+}
+
+.skills {
+  position: relative;
+  left: 100px;
+  top: 50px;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cuadro1 {
+  position: relative;
+  left: 200px;
+  width: 150px;
+  height: 60px;
+  top: 100px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto1 {
+  position: relative;
+  left: 240px;
+  top: -60px;
+  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.cuadro2 {
+  position: relative;
+  top: 40px;
+  left: 550px;
+  width: 195px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto2 {
+  position: relative;
+  left: 580px;
+  top: -90px;
+  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.cuadro3 {
+  position: relative;
+  top: -23px;
+  left: 950px;
+  width: 150px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto3 {
+  position: relative;
+  left: 995px;
+  top: -120px;
+  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }

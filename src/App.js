@@ -5,14 +5,15 @@ import Home from './paginas/Home';
 import Education from './paginas/Education';
 import Projects from './paginas/Projects';
 
+
 function App() {
   return (
     <Router>
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/education" element={<Education />} />
-        <Route path="/projects" element={<Projects/>} />
+        <Route path="/Education" element={<Education />} />
+        <Route path="/Projects" element={<Projects/>} />
       </Routes>
 
     </Router>
