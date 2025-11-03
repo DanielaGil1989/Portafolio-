@@ -1,0 +1,149 @@
+.backround {
+  background-color: #EBEBEB;
+  height: 247vh;
+  margin: 0;
+}
+
+.edu {
+  position: relative;
+  left: 150px;
+  top: 30px;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sup {
+  position: relative;
+  left: 290px;
+  top: 120px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.titulo1 {
+  position: relative;
+  left: 330px;
+  top: 100px;
+  color: #670D1C;
+}
+
+.año1 {
+  position: relative;
+  top: 140px;
+  left: 340px;
+  font-weight: 700;
+}
+
+.texto {
+  position: relative;
+  top: 135px;
+  left: 250px;
+  width: 315px;
+}
+
+.titulo2 {
+  position: relative;
+  left: 860px;
+  top: -400px;
+  width: 230px;
+  color: #670D1C;
+}
+
+.inst {
+  position: relative;
+  left: 820px;
+  top: -370px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.año2 {
+  position: relative;
+  top: -340px;
+  left: 930px;
+  font-weight: 700;
+}
+
+.texto11 {
+  position: relative;
+  top: -5px;
+  left: -95px;
+  width: 315px;
+  font-weight: 400;
+}
+
+.experience {
+  position: relative;
+  right: 800px;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.volunteering {
+  position: relative;
+  right: 660px;
+  top: -35px;
+  color: #670D1C;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+}
+
+.eco {
+  position: relative;
+  right: 800px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.ecooo {
+  position: relative;
+  top: -240px;
+  color: #670D1C;
+}
+
+.añoeco {
+  position: relative;
+  top: -220px;
+  left: 25px;
+}
+
+.textoeco {
+  position: relative;
+  top: -210px;
+  right: 150px;
+  width: 400px;
+  font-weight: 400;
+}
+
+.leers {
+  position: relative;
+  right: 800px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.lps {
+  position: relative;
+  top: -330px;
+  right: 10px;
+  color: #670D1C;
+}
+
+.añolps {
+  position: relative;
+  top: -300px;
+  left: 45px;
+}
+
+.textolps {
+  position: relative;
+  top: -285px;
+  right: 150px;
+  width: 400px;
+  font-weight: 400;
+}
+
+.footere {
+  position: relative;
+  top: -450px;
+  background-color: #537D8D;
+}

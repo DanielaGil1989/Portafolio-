@@ -6,9 +6,8 @@ function Home() {
   return (
     <>
       <div className='navbar_Color'>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">Mi Portafolio</Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -22,13 +21,13 @@ function Home() {
           </button>
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
-              <li className="nav-item">
+              <li className="nav-item1">
                 <Link className="nav-link" to="/">Inicio</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item2">
                 <Link className="nav-link" to="/education">Educación</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item3">
                 <Link className="nav-link" to="/projects">Proyectos</Link>
               </li>
             </ul>
@@ -79,6 +78,35 @@ function Home() {
             </div>
             <div className='texto6'>
             <h6>Desing</h6>
+            </div>
+            <div className='footer'>
+              <div className='social'>
+              <h4>Social</h4>
+              </div>
+              <div className='media'>
+              <h3>media</h3>
+              </div>
+              <Link className="ig" to="https://www.instagram.com/danniiela.g?igsh=MWNsaXF2c3F4dmExMg==">Instagram</Link>
+              <div className='work'>
+              <h4>Work</h4>
+              </div>
+              <div className='media2'>
+              <h3>media</h3>
+              </div>
+              <Link className="gith" to="https://github.com/Danniielag">Git Hub</Link>
+              <Link className="linke" to="https://www.linkedin.com/in/daniela-gil-046399365/">Linkedln</Link>
+              <div className='personal'>
+              <h4>Personal</h4>
+              </div>
+              <div className='information'>
+              <h3>information</h3>
+              </div>
+              <div className='correo'>
+              <h6>daniela.gil07@gmail.com</h6>
+              </div>
+              <div className='numero'>
+              <h6>7107-0127</h6>
+              </div>
             </div>
             
           </div>

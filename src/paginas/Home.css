@@ -4,27 +4,27 @@
   margin: 0;
 }
 
-.navbar_Color {
-   background-color: #EBEBEB;
-  
+.navbar-expand-lg {
+  background-color: #EBEBEB;
 }
-.nombre{
+
+.nombre {
   position: relative;
-  left: 500px ;
+  left: 550px;
   color: #537D8D;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .carrera {
   position: relative;
-  left: 450px;
+  left: 500px;
   color: #670D1C;
-  font-family:'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
 }
 
 .intro {
   position: relative;
-  left: 200px;
+  left: 100px;
   color: #537D8D;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -34,8 +34,10 @@
   position: relative;
   left: 100px;
 }
-.fondo_abajo{
-    background-color: #d4d1d1;
+
+.fondo_abajo {
+  background-color: #d4d1d1;
+  height: 100vh;
 }
 
 .skills {
@@ -45,6 +47,7 @@
   color: #537D8D;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
 .cuadro1 {
   position: relative;
   left: 200px;
@@ -58,8 +61,8 @@
 .texto1 {
   position: relative;
   left: 240px;
-  top: -60px;
-  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  top: -240px;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .cuadro2 {
@@ -75,8 +78,8 @@
 .texto2 {
   position: relative;
   left: 580px;
-  top: -90px;
-  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  top: -269px;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .cuadro3 {
@@ -92,6 +95,143 @@
 .texto3 {
   position: relative;
   left: 995px;
-  top: -120px;
-  font-family:'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  top: -296px;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.cuadro4 {
+  position: relative;
+  top: 40px;
+  width: 150px;
+  height: 60px;
+  left: 200px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto4 {
+  position: relative;
+  top: -200px;
+  left: 235px;
+}
+
+.cuadro5 {
+  position: relative;
+  top: -20px;
+  width: 150px;
+  height: 60px;
+  left: 570px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto5 {
+  position: relative;
+  left: 600px;
+  top: -230px;
+
+}
+
+.cuadro6 {
+  position: relative;
+  top: -80px;
+  left: 950px;
+  width: 150px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.texto6 {
+  position: relative;
+  left: 995px;
+  top: -257px;
+}
+
+.footer {
+  position: relative;
+  top: -150px;
+  height: 50vh;
+  background-color: #537D8D;
+}
+
+.social {
+  position: relative;
+  left: 400px;
+  top: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #ffffff;
+}
+
+.media {
+  position: relative;
+  left: 455px;
+  top: 8px;
+  color: #670D1C;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+}
+
+.ig {
+  position: relative;
+  left: 400px;
+  top: 35px;
+  color: #ffffff;
+}
+
+.work {
+  position: relative;
+  left: 900px;
+  top: -60px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #ffffff;
+}
+
+.media2 {
+  position: relative;
+  left: 948px;
+  top: -93px;
+  color: #670D1C;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+}
+
+.gith {
+  position: relative;
+  left: 900px;
+  top: -65px;
+  color: #ffffff;
+}
+
+.linke {
+  position: relative;
+  left: 846px;
+  top: -25px;
+  color: #ffffff;
+}
+
+.personal {
+  position: relative;
+  left: 620px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #ffffff;
+}
+
+.information {
+  position: relative;
+  left: 699px;
+  top: -33px;
+  color: #670D1C;
+  font-family: 'Brush Script MT', 'Lucida Handwriting', 'Comic Sans MS', cursive;
+}
+
+.correo {
+  position: relative;
+  left: 620px;
+  color: #ffffff;
+}
+
+.numero {
+  position: relative;
+  left: 620px;
+  top: 25px;
+  color: #ffffff;
 }
