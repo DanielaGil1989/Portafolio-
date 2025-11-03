@@ -1,0 +1,13 @@
+.fondoo {
+    background-color: #EBEBEB;
+    height: 100vh;
+    margin: 0;
+}
+
+.pro {
+    position: relative;
+    left: 150px;
+    top: 30px;
+    color: #537D8D;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
