@@ -93,35 +93,35 @@ function Education() {
               <p>I took part in the Leer Para Soñar project, where I learned that I can achieve anything I want if I try hard, without being afraid of failure or the problems that may appear, and that every person is valuable.</p>
             </div>
           </div>
-                      <div className='footere'>
-                        <div className='social'>
-                        <h4>Social</h4>
-                        </div>
-                        <div className='media'>
-                        <h3>media</h3>
-                        </div>
-                        <Link className="ig" to="https://www.instagram.com/danniiela.g?igsh=MWNsaXF2c3F4dmExMg==">Instagram</Link>
-                        <div className='work'>
-                        <h4>Work</h4>
-                        </div>
-                        <div className='media2'>
-                        <h3>media</h3>
-                        </div>
-                        <Link className="gith" to="https://github.com/Danniielag">Git Hub</Link>
-                        <Link className="linke" to="https://www.linkedin.com/in/daniela-gil-046399365/">Linkedln</Link>
-                        <div className='personal'>
-                        <h4>Personal</h4>
-                        </div>
-                        <div className='information'>
-                        <h3>information</h3>
-                        </div>
-                        <div className='correo'>
-                        <h6>daniela.gil07@gmail.com</h6>
-                        </div>
-                        <div className='numero'>
-                        <h6>7107-0127</h6>
-                        </div>
-                      </div>
+          <div className='footere'>
+            <div className='social'>
+              <h4>Social</h4>
+            </div>
+            <div className='media'>
+              <h3>media</h3>
+            </div>
+            <Link className="ig" to="https://www.instagram.com/danniiela.g?igsh=MWNsaXF2c3F4dmExMg==">Instagram</Link>
+            <div className='work'>
+              <h4>Work</h4>
+            </div>
+            <div className='media2'>
+              <h3>media</h3>
+            </div>
+            <Link className="gith" to="https://github.com/Danniielag">Git Hub</Link>
+            <Link className="linke" to="https://www.linkedin.com/in/daniela-gil-046399365/">Linkedln</Link>
+            <div className='personal'>
+              <h4>Personal</h4>
+            </div>
+            <div className='information'>
+              <h3>information</h3>
+            </div>
+            <div className='correo'>
+              <h6>daniela.gil07@gmail.com</h6>
+            </div>
+            <div className='numero'>
+              <h6>7107-0127</h6>
+            </div>
+          </div>
         </div>
       </div>
 
