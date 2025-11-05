@@ -1,6 +1,6 @@
 .fondoo {
     background-color: #EBEBEB;
-    height: 100vh;
+    height: 155vh;
     margin: 0;
 }
 
@@ -10,4 +10,94 @@
     top: 30px;
     color: #537D8D;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.iooon {
+    position: relative;
+    top: 80px;
+    width: 350px;
+    left: 130px;
+    border-radius: 10px;
+}
+
+.ions {
+    position: relative;
+    top: -45px;
+    left: 850px;
+    color: #670D1C;
+}
+
+.añoion {
+    position: relative;
+    top: -45px;
+    left: 880px;
+    font-weight: 700;
+}
+
+.textoion {
+    position: relative;
+    top: -55px;
+    left: 630px;
+    width: 615px;
+}
+
+.up {
+    position:relative;
+    top: 20px;
+    left: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.study {
+    position: relative;
+    top: 60px;
+    left: 850px;
+    color: #670D1C;
+}
+
+.añoup {
+    position: relative;
+    top: -195px;
+    left: 880px;
+    font-weight: 700;
+}
+
+.textoup {
+    position: relative;
+    right: 260px;
+    width: 615px;
+    font-weight: 400;
+}
+
+.med {
+    position: relative;
+    top: 150px;
+    right: 735px;
+    border-radius: 10px;
+}
+
+.medical {
+    position: relative;
+    top: -70px;
+    right: 40px;
+    color: #670D1C;
+}
+
+.añomed {
+    position: relative;
+    top: -70px;
+    left: 15px;
+}
+
+.textomed {
+    position: relative;
+    top: -70px;
+    right: 260px;
+     width: 615px;
+    font-weight: 400;
+}
+
+.footermed {
+    background-color: #537D8D;
 }
