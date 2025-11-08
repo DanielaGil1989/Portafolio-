@@ -1,6 +1,6 @@
 .backround {
   background-color: #EBEBEB;
-  height: 247vh;
+  height: 317vh;
   margin: 0;
 }
 
@@ -142,8 +142,33 @@
   font-weight: 400;
 }
 
+.certis {
+  position: relative;
+  top: -100px;
+  right: 800px;
+  color: #537D8D;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.excel {
+  position: relative;
+  right: 800px;
+  width: 500px;
+  border-radius: 10px;
+  top: -50px;
+}
+
+.js {
+   position: relative;
+  right: 700px;
+  width: 570px;
+  border-radius: 10px;
+  top: -50px;
+}
+
 .footere {
   position: relative;
-  top: -450px;
+  top: -50px;
+  height: 65vh;
   background-color: #537D8D;
 }

@@ -25,13 +25,13 @@ function Projects() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/">Inicio</Link>
+                  <Link className="nav-link" to="/">Home</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/education">Educación</Link>
+                  <Link className="nav-link" to="/education">Education</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/projects">Proyectos</Link>
+                  <Link className="nav-link" to="/projects">Projects</Link>
                 </li>
               </ul>
             </div>
