@@ -52,7 +52,17 @@ function Projects() {
             <p>2025</p>
           </div>
           <div className='textoion'>
-            <p>I was part of the IonSpark project, where I worked as a designer and front-end developer. I learned a lot about the environment and different ways to produce energy in a sustainable way.</p>
+            <p>
+              I was part of the IonSpark project, where I worked as a designer and front-end developer.
+              I learned a lot about the environment and different ways to produce energy in a sustainable way.
+              You can view the project <a href="https://www.figma.com/proto/uU5n1XdfUU3tLh5q2TTb16/IonSpark?node-id=182-79&starting-point-node-id=182%3A79&t=tp5O3NNjzEWeOLry-1"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: '#537D8D', textDecoration: 'underline' }}>
+                here
+              </a>.
+            </p>
+
           </div>
           <div className='study'>
             <h4>StudyUp!</h4>
@@ -61,7 +71,15 @@ function Projects() {
           <div className='añoup'>
             <p>2024</p>
             <div className='textoup'>
-              <p>I participated in Expo 2024, where I was part of the StudyUp! project. In the team, I worked as a designer, front-end developer, and team organizer. I learned about leadership and different ways children can learn.</p>
+              <p>
+                I participated in Expo 2024, where I was part of the StudyUp! project. In the team, I worked as a designer, front-end developer, and team organizer. I learned about leadership and different ways children can learn.
+                You can view the project <a href="https://www.figma.com/proto/8qyf9aTmMsQ4shzN9Z0Sgg/Untitled?node-id=2-2&starting-point-node-id=2%3A2&t=SMTCySOKEJcp5hsK-1"
+                  rel="noopener noreferrer"
+                  style={{ color: '#537D8D', textDecoration: 'underline' }}>
+                  here
+                </a>.
+              </p>
+
             </div>
             <img className='med' src={Medical} alt="imagen" />
             <div className='medical'>
@@ -71,7 +89,16 @@ function Projects() {
               <p>2023</p>
             </div>
             <div className='textomed'>
-              <hp>I was part of the Medical Care project, where I developed my communication and leadership skills. I worked in design and front-end, and I learned a lot about how the medical process works.</hp>
+                          <p>
+                            I was part of the Medical Care project, where I developed my communication and leadership skills. I worked in design and front-end, and I learned a lot about how the medical process works.
+               <a href="https://www.figma.com/proto/xkHQzxUEHrhMm88KTSvsBi/Medical-Care?node-id=206-2&starting-point-node-id=347%3A28&t=U09h6TYwXnpD09nV-1"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: '#537D8D', textDecoration: 'underline' }}>
+                here
+              </a>.
+            </p>
+
             </div>
           </div>
         </div>
