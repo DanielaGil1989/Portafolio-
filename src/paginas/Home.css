@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 .home-background {
   background-color: #EBEBEB;
   height: 100vh;
@@ -129,7 +133,6 @@
   position: relative;
   left: 600px;
   top: -230px;
-
 }
 
 .cuadro6 {
@@ -235,3 +238,5 @@
   top: 25px;
   color: #ffffff;
 }
+
+  

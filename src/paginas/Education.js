@@ -5,6 +5,8 @@ import Media from './imagenes/Media.jpg';
 import Quiroz from './imagenes/quiroz.jpg';
 import Ecocycle from './imagenes/ecocycle.jpg';
 import Leer from './imagenes/leer.jpg';
+import Excel from './imagenes/excel.jpg';
+import Js from './imagenes/jsss.jpg';
 
 function Education() {
   return (
@@ -26,13 +28,13 @@ function Education() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav ms-auto">
                 <li className="nav-item1">
-                  <Link className="nav-link" to="/">Inicio</Link>
+                  <Link className="nav-link" to="/">Home</Link>
                 </li>
                 <li className="nav-item2">
-                  <Link className="nav-link" to="/education">Educación</Link>
+                  <Link className="nav-link" to="/education">Education</Link>
                 </li>
                 <li className="nav-item3">
-                  <Link className="nav-link" to="/projects">Proyectos</Link>
+                  <Link className="nav-link" to="/projects">Projects</Link>
                 </li>
               </ul>
             </div>
@@ -92,6 +94,12 @@ function Education() {
             <div className='textolps'>
               <p>I took part in the Leer Para Soñar project, where I learned that I can achieve anything I want if I try hard, without being afraid of failure or the problems that may appear, and that every person is valuable.</p>
             </div>
+            <div className='certis'>
+              <h2>CERTIFICATIONS</h2>
+            </div>
+            <img className='excel' src={Excel} alt="quiroz" />
+             <img className='js' src={Js} alt="quiroz" />
+            </div>
           </div>
           <div className='footere'>
             <div className='social'>
@@ -123,7 +131,6 @@ function Education() {
             </div>
           </div>
         </div>
-      </div>
 
     </>
   );
